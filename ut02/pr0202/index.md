@@ -31,8 +31,10 @@
 ---
 
 * Nos conectamos desde nuestro Anfitrión al SEVER A ```ssh a_jfc@192.168.56.102 ``` <br>
-*  ``` sudo ufw allow ssh ``` <br>
-* ```ssh a_jfc@192.168.56.102``` <br>
+*  "Si nos da error " Ejecutamos en el SERVER ``` sudo ufw allow ssh ``` <br>
+*  Probamos```ssh a_jfc@192.168.56.102``` --> yes <br>
+![Uploading image.png…]()
+
 
 ---
 
