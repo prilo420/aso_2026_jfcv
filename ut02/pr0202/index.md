@@ -74,12 +74,14 @@ b
 c
 <img width="657" height="478" alt="image" src="https://github.com/user-attachments/assets/b79964d9-65b3-4f17-9bf8-6a81d13470e0" />
 
+* Movemos las claves  al directorio  de claves autorizadas para que funcione
+``` cat id_ed25519.pub >> .ssh/authorized_keys ``` <br>
 
-c
+```SERVER C```  <br>
 
-<img width="458" height="35" alt="image" src="https://github.com/user-attachments/assets/7ce7d311-d19f-4e7d-8f9d-ee4ff4460ac2" />
+<img width="458" height="35" alt="image" src="https://github.com/user-attachments/assets/7ce7d311-d19f-4e7d-8f9d-ee4ff4460ac2" /> <br>
 
-b
+```SERVER B``` <br>
 
 <img width="560" height="48" alt="image" src="https://github.com/user-attachments/assets/05c3b8d6-cd7d-453a-a6fe-8ff27a4ab8dc" />
 
