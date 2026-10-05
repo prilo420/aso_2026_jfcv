@@ -35,7 +35,13 @@
 *  Probamos```ssh a_jfc@192.168.56.102``` --> yes <br>
 <img width="830" height="550" alt="image" src="https://github.com/user-attachments/assets/83b22c9f-e90c-4e0c-a983-503d884346c5" />
  
-
 ---
 
+* Conectividad entre SERVERs
+ ### SERVER A --> SERVER B
+ * A ```  ping -c 4 10.20.0.11 ``` B <br>
+ *  B ``` ping -c 4 10.20.0.10 ``` A <br>
+ <img width="1067" height="258" alt="image" src="https://github.com/user-attachments/assets/11d52bb5-73f6-4e7a-ab38-7b15127460d2" /> <br>
+
+ 
 [Index](https://github.com/prilo420/aso_2026_jfcv/blob/main/index.md) 
