@@ -17,7 +17,8 @@
 <img width="372" height="210" alt="image" src="https://github.com/user-attachments/assets/814f60c1-6d23-400b-9f26-ef4b4ab6326f" /> <br>
 * Aplicamos los cambios ``` sudo netplan apply ``` <br>
 * Verificamos ``` ip a ``` <br>
-  
+  <img width="710" height="298" alt="image" src="https://github.com/user-attachments/assets/0974b4eb-8d41-4da0-8e15-581ec3a05ba5" /> <br>
+
 ### SERVER C
 
 
