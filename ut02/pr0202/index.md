@@ -83,13 +83,12 @@ b
 
 <img width="560" height="48" alt="image" src="https://github.com/user-attachments/assets/05c3b8d6-cd7d-453a-a6fe-8ff27a4ab8dc" />
 
-
-
-<img width="667" height="503" alt="image" src="https://github.com/user-attachments/assets/e33738b2-5778-4257-bc85-598ee5e08979" />
-
-
-<img width="727" height="505" alt="image" src="https://github.com/user-attachments/assets/11f8984d-e644-4937-bb6b-e76f2393610a" />
-
+### COMPROBAMOS
+* SERVER B  ```  ssh b_jfc@10.20.0.11``` <br>
+<img width="667" height="503" alt="image" src="https://github.com/user-attachments/assets/e33738b2-5778-4257-bc85-598ee5e08979" /> <br>
+* SERVER C  ``` shh c_jfc@10.30.0.11``` <br>
+<img width="727" height="505" alt="image" src="https://github.com/user-attachments/assets/11f8984d-e644-4937-bb6b-e76f2393610a" /> <br>
+* Funciona perfectamente las CLAVES  ya no pide la contraseña
 
 ---
   
