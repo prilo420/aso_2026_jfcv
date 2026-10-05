@@ -61,18 +61,21 @@
 <img width="762" height="390" alt="image" src="https://github.com/user-attachments/assets/8a2f0c4e-72f5-4d52-a543-4af0b98cd375" /> <br>
 
 ----
-* Eportamos la clave pública hacia SERVER B y SERVER C
+## Exportamos 
+### SERVER B
+* ```scp .ssh/id_ed25519.pub b_jfc@10.20.0.11:~``` <br>
 <img width="1253" height="138" alt="image" src="https://github.com/user-attachments/assets/4f65b78c-db41-4327-b529-7d12dd0410b6" /> <br>
 
+### SERVER C
+*```scp .ssh/id_ed25519.pub b_jfc@10.20.0.11:~``` <br>
 <img width="1245" height="97" alt="image" src="https://github.com/user-attachments/assets/0d0e8a50-1aed-480e-b2cd-285bbbf1a4a2" /> <br>
 
+* Comprobamos la conexión ssh <br>
+  ```SERVER B``` <br>
+<img width="636" height="497" alt="image" src="https://github.com/user-attachments/assets/1d92f61a-cb45-4bb0-bb60-d7737322da70" /> <br>
+```SERVER C```  <br>
 
-b
-<img width="636" height="497" alt="image" src="https://github.com/user-attachments/assets/1d92f61a-cb45-4bb0-bb60-d7737322da70" />
-
-
-c
-<img width="657" height="478" alt="image" src="https://github.com/user-attachments/assets/b79964d9-65b3-4f17-9bf8-6a81d13470e0" />
+<img width="657" height="478" alt="image" src="https://github.com/user-attachments/assets/b79964d9-65b3-4f17-9bf8-6a81d13470e0" /> <br>
 
 * Movemos las claves  al directorio  de claves autorizadas para que funcione
 ``` cat id_ed25519.pub >> .ssh/authorized_keys ``` <br>
@@ -85,7 +88,7 @@ c
 
 <img width="560" height="48" alt="image" src="https://github.com/user-attachments/assets/05c3b8d6-cd7d-453a-a6fe-8ff27a4ab8dc" />
 
-### COMPROBAMOS
+### VERIFICAMOS
 * SERVER B  ```  ssh b_jfc@10.20.0.11``` <br>
 <img width="667" height="503" alt="image" src="https://github.com/user-attachments/assets/e33738b2-5778-4257-bc85-598ee5e08979" /> <br>
 * SERVER C  ``` shh c_jfc@10.30.0.11``` <br>
