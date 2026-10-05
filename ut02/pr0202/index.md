@@ -67,6 +67,14 @@
 <img width="1245" height="97" alt="image" src="https://github.com/user-attachments/assets/0d0e8a50-1aed-480e-b2cd-285bbbf1a4a2" /> <br>
 
 
+
+<img width="636" height="497" alt="image" src="https://github.com/user-attachments/assets/1d92f61a-cb45-4bb0-bb60-d7737322da70" />
+
+
+
+
+
+
 ---
   
 [Index](https://github.com/prilo420/aso_2026_jfcv/blob/main/index.md) 
