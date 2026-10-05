@@ -28,6 +28,11 @@
 * Verificamos ``` ip a ``` <br>
 <img width="676" height="298" alt="image" src="https://github.com/user-attachments/assets/ff9cef94-1b2b-4c8d-b8aa-0b9563e55139" />
 
+---
+
+* Nos conectamos desde nuestro Anfitrión al SEVER A ```ssh a_jfc@192.168.56.102 ``` <br>
+*  ``` sudo ufw allow ssh ``` <br>
+* ```ssh a_jfc@192.168.56.102``` <br>
 
 ---
 
