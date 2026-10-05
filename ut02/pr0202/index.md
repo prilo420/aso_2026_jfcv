@@ -40,8 +40,13 @@
 * Conectividad entre SERVERs
  ### SERVER A --> SERVER B
  * A ```  ping -c 4 10.20.0.11 ``` B <br>
- *  B ``` ping -c 4 10.20.0.10 ``` A <br>
+ * B ``` ping -c 4 10.20.0.10 ``` A <br>
  <img width="1067" height="258" alt="image" src="https://github.com/user-attachments/assets/11d52bb5-73f6-4e7a-ab38-7b15127460d2" /> <br>
-
  
+### SERVER A --> SERVER C
+* A ```ping -c 4 10.30.0.11 ``` C
+* C ```  ping -c 4 10.30.0.10``` A
+
+---
+  
 [Index](https://github.com/prilo420/aso_2026_jfcv/blob/main/index.md) 
