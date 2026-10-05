@@ -61,7 +61,7 @@
 <img width="762" height="390" alt="image" src="https://github.com/user-attachments/assets/8a2f0c4e-72f5-4d52-a543-4af0b98cd375" /> <br>
 
 ----
-
+* Eportamos la clave pública hacia SERVER B y SERVER C
 <img width="1253" height="138" alt="image" src="https://github.com/user-attachments/assets/4f65b78c-db41-4327-b529-7d12dd0410b6" /> <br>
 
 <img width="1245" height="97" alt="image" src="https://github.com/user-attachments/assets/0d0e8a50-1aed-480e-b2cd-285bbbf1a4a2" /> <br>
