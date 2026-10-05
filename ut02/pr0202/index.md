@@ -49,9 +49,11 @@
 <img width="1072" height="246" alt="image" src="https://github.com/user-attachments/assets/83239b7f-861a-4d5b-80b3-8d4550cb5534" />
  
 ### SERVER B --> SERVER C
-
-<img width="1073" height="186" alt="image" src="https://github.com/user-attachments/assets/4ced0d38-793c-4f62-a878-36fdaf037731" />
-
+* B ``` ping -c 4 10.30.0.11``` C <br>
+* C ``` ping -c 4 10.20.0.11 ``` B <br>
+<img width="1073" height="186" alt="image" src="https://github.com/user-attachments/assets/4ced0d38-793c-4f62-a878-36fdaf037731" /> <br>
+* Subredes diferentes: El servidor B está intentando hacer ping a la IP 10.30.0.11, mientras que el servidor C intenta hacer ping a la 10.20.0.11. Si no hay un router o una puerta de enlace configurada entre ambas redes (10.30.0.X y 10.20.0.X), nunca se comunicarán
+  
 ---
   
 [Index](https://github.com/prilo420/aso_2026_jfcv/blob/main/index.md) 
