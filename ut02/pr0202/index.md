@@ -44,8 +44,13 @@
  <img width="1067" height="258" alt="image" src="https://github.com/user-attachments/assets/11d52bb5-73f6-4e7a-ab38-7b15127460d2" /> <br>
  
 ### SERVER A --> SERVER C
-* A ```ping -c 4 10.30.0.11 ``` C
-* C ```  ping -c 4 10.30.0.10``` A
+* A ```ping -c 4 10.30.0.11 ``` C <br>
+* C ```  ping -c 4 10.30.0.10``` A <br>
+<img width="1072" height="246" alt="image" src="https://github.com/user-attachments/assets/83239b7f-861a-4d5b-80b3-8d4550cb5534" />
+ 
+### SERVER B --> SERVER C
+
+<img width="1073" height="186" alt="image" src="https://github.com/user-attachments/assets/4ced0d38-793c-4f62-a878-36fdaf037731" />
 
 ---
   
