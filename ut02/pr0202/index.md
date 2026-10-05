@@ -52,8 +52,15 @@
 * B ``` ping -c 4 10.30.0.11``` C <br>
 * C ``` ping -c 4 10.20.0.11 ``` B <br>
 <img width="1073" height="186" alt="image" src="https://github.com/user-attachments/assets/4ced0d38-793c-4f62-a878-36fdaf037731" /> <br>
-* Subredes diferentes: El servidor B está intentando hacer ping a la IP 10.30.0.11, mientras que el servidor C intenta hacer ping a la 10.20.0.11. Si no hay un router o una puerta de enlace configurada entre ambas redes (10.30.0.X y 10.20.0.X), nunca se comunicarán
-  
+* Subredes diferentes: El servidor B está intentando hacer ping a la IP 10.30.0.11, mientras que el servidor C intenta hacer ping a la 10.20.0.11. Si no hay un router o una puerta de enlace configurada entre ambas redes (10.30.0.X y 10.20.0.X), nunca se comunicarán.
+
+## Creación y Configuración de las Claves
+### SERVER A
+* Creamos la clave ``` ssh-keygen -b 1024 ``` <br>
+* Verificamos ``` cat .ssh/id_ed25519.pub``` <br>
+<img width="762" height="390" alt="image" src="https://github.com/user-attachments/assets/8a2f0c4e-72f5-4d52-a543-4af0b98cd375" /> <br>
+
+
 ---
   
 [Index](https://github.com/prilo420/aso_2026_jfcv/blob/main/index.md) 
