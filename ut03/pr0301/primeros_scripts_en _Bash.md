@@ -7,9 +7,10 @@ Realiza las siguientes tareas:
 
 ``` nano fecha.sh ``` <br>
 
-``` #!/bin/bash 
-date ``` <br>
-
+```
+#!/bin/bash 
+date  
+````
 
 
 2. Mejora el script anterior para que muestre un mensaje de la forma: “Hoy es jueves día 15 de abril y son las 12:00 horas”. Tendrás que mirar la ayuda del comando date para poder extraer las diferentes partes de la fecha y hora. <br>
