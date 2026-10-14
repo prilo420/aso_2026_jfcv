@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PR0301: Primeros scripts en Bash
 
 Realiza las siguientes tareas:
@@ -100,3 +101,6 @@ fi
 ``` 
 tar -zcvf nombre-archivo.tar.gz nombre-directorio
 ```
+=======
+# jj
+>>>>>>> 1332d74a1783c21ccc200e97de45f11c2eb7c979
