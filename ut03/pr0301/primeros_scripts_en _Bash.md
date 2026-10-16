@@ -1,3 +1,4 @@
+[INDICE](../)
 # PR0301: Primeros scripts en Bash
 
 Realiza las siguientes tareas:
@@ -7,10 +8,7 @@ Realiza las siguientes tareas:
 * Creamos 
 ``` nano fecha.sh ``` <br>
 
-``` 
-#!/bin/bash 
-date 
-```` 
+![alt text](image-5.png)
 <br>
 
 * Ejecutamos  el Script<br>
@@ -53,6 +51,7 @@ read -p "Introduce otro Numero: " numero2
 
 * Creamos el Script ```nano determinar.sh ```
 <br>
+
 * Ponemos permisos ``` sudo chmod u+x ./determinar.sh ``` <br>
 ````
 #!/bin/bash
@@ -101,3 +100,4 @@ fi
 tar -zcvf nombre-archivo.tar.gz nombre-directorio
 ```
 
+[INDICE](../)
