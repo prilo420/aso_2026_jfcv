@@ -1,3 +1,6 @@
+[INDICE](../Indixe.md)
+---
+
 # PR0302: Condicional if
 Realiza las siguientes tareas:
 
@@ -39,3 +42,5 @@ echo Bienvenido, $usuario
 
 ## Ejercicio 10: Evaluación de edad
 ### Haz un script que solicite al usuario su edad y determine si es menor, adulto o mayor de edad, según un umbral predefinido (por ejemplo, menor de 18, entre 18 y 65, y mayor de 65).
+
+[INDICE](../)

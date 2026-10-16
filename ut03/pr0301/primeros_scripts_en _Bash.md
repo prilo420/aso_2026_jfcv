@@ -1,4 +1,4 @@
-[INDICE](../)
+[INDICE](../Indixe.md)
 # PR0301: Primeros scripts en Bash
 
 Realiza las siguientes tareas:
@@ -100,4 +100,4 @@ fi
 tar -zcvf nombre-archivo.tar.gz nombre-directorio
 ```
 
-[INDICE](../)
+[INDICE](../Indixe.md)
