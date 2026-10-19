@@ -68,6 +68,6 @@ Realiza las siguientes tareas:
 
 10. Crea un script que comprima todos los ficheros del directorio Escritorio que está dentro del directorio personal del usuario actual en un fichero llamado backup.DDMM.gz donde DD es el día del mes y MM el mes. Para comprimir puedes utilizar el comando tar de la siguiente manera: <br>
 
-``` tar -zcvf nombre-archivo.tar.gz nombre-directorio```
+
 
 [INDICE](../Indixe.md)
