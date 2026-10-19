@@ -18,11 +18,8 @@ Realiza las siguientes tareas:
 
 * Modificamos <br>
 ``` nano ./fecha.sh ``` <br>
+![alt text](image-8.png)
 
-````
-#!/bin/bash
-echo $(date +"Hoy es %A dia %d de %B y son las %H:%M horas.") 
-```` 
 <br>
 
 * Ejecutamos <br>
@@ -33,15 +30,8 @@ echo $(date +"Hoy es %A dia %d de %B y son las %H:%M horas.")
 * Creamos el Script
 
  ``` nano suma.sh``` <br>
+![alt text](image-7.png)
 
-````
-#!/bin/bash
-read -p "Introduce un Numero: " numero1
-
-read -p "Introduce otro Numero: " numero2
-
-    echo $(expr $numero1 + $numero2)
-```` 
 <br>
 
 * Ejecutamos <br>
@@ -53,16 +43,8 @@ read -p "Introduce otro Numero: " numero2
 <br>
 
 * Ponemos permisos ``` sudo chmod u+x ./determinar.sh ``` <br>
-````
-#!/bin/bash
-read -p "Introduce un Numero: " numero
-comp=$(($numero % 2))
-    if [ $comp == 0 ]; then
-        echo "El $numero es PAR"
-    else
-        echo "El $numero es IMPAR"
-    fi
-````
+![alt text](image-6.png)
+
 
 * Ejecutamos <br>
 ![alt text](image-3.png)
@@ -70,18 +52,8 @@ comp=$(($numero % 2))
 ### 5. Escribe un script que solicite el nombre de un archivo y luego imprima cuántas líneas tiene ese archivo. Verifica que el archivo exista antes de contar las líneas. <br>
 
 * Creamos el Script ``` nano solicitar.sh ``` <br>
+![alt text](image-9.png)
 
-````
-#!/bin/bash
-read -p "Nombre de un Archivo: " nombre
-
-if [ -f "$nombre" ]; then
-    echo "El archivo EXISTE."
-        wc -l < $nombre
-else
-    echo "EL ARCHIVO NO EXISTE"
-fi
-````
 <br>
 
 ![alt text](image-4.png)
@@ -96,8 +68,6 @@ fi
 
 10. Crea un script que comprima todos los ficheros del directorio Escritorio que está dentro del directorio personal del usuario actual en un fichero llamado backup.DDMM.gz donde DD es el día del mes y MM el mes. Para comprimir puedes utilizar el comando tar de la siguiente manera: <br>
 
-``` 
-tar -zcvf nombre-archivo.tar.gz nombre-directorio
-```
+``` tar -zcvf nombre-archivo.tar.gz nombre-directorio```
 
 [INDICE](../Indixe.md)
