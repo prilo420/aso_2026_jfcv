@@ -31,6 +31,9 @@ echo Bienvenido, $usuario
 ## Ejercicio 6: Verificar si el usuario es root
 ### Haz un script que verifique si el script está siendo ejecutado por el usuario root, mostrando un mensaje diferente si no lo es.
 
+![alt text](image.png)
+* Ejecucion
+![alt text](image-1.png)
 ## Ejercicio 7: Calificación de un examen
 ### Realiza un script que pida una nota numérica y determine si es “Aprobado” (5 o más) o “Suspenso” (menos de 5).
 
@@ -42,5 +45,6 @@ echo Bienvenido, $usuario
 
 ## Ejercicio 10: Evaluación de edad
 ### Haz un script que solicite al usuario su edad y determine si es menor, adulto o mayor de edad, según un umbral predefinido (por ejemplo, menor de 18, entre 18 y 65, y mayor de 65).
-
+![alt text](image-2.png)
+![alt text](image-3.png)
 [INDICE](../)
