@@ -7,9 +7,19 @@ Realiza las siguientes tareas:
 ## Ejercicio 1: Contar líneas de un archivo
 ### Escribe un script que solicite el nombre de un archivo y luego imprima cuántas líneas tiene ese archivo. Verifica que el archivo exista antes de contar las líneas.
 
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
 ## Ejercicio 2: Verificación de archivo
 ### Crea un script que compruebe si un archivo (cuya ruta pedirá al usuario por teclado) existe y si tiene permisos de lectura. Muestra un mensaje adecuado para cada caso.
+* Opcion 1(Recomendado)
 
+![alt text](image-8.png)
+* opcion 2
+
+![alt text](image-7.png)
+![alt text](image-6.png)
 ## Ejercicio 3: Comparación de dos números
 ### Realiza un script que solicite dos números al usuario y los compare, mostrando cuál es mayor, o si son iguales.
 
@@ -24,6 +34,7 @@ echo Bienvenido, $usuario
 
 ## Ejercicio 4: Validación de contraseña
 ### Escribe un script que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida (que estará almacenada en una variable de tu script). Si es correcta, muestra un mensaje de éxito, de lo contrario, indica que es incorrecta.
+
 
 ## Ejercicio 5: Comprobación de directorio
 ### Crea un script que compruebe si un directorio (que solicitará por teclado al usuario) existe y si tiene permisos de escritura. Si el directorio no existe, crea uno nuevo.
@@ -47,4 +58,5 @@ echo Bienvenido, $usuario
 ### Haz un script que solicite al usuario su edad y determine si es menor, adulto o mayor de edad, según un umbral predefinido (por ejemplo, menor de 18, entre 18 y 65, y mayor de 65).
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+---
 [INDICE](../)
