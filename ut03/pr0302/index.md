@@ -38,10 +38,15 @@ echo Bienvenido, $usuario
 ## Ejercicio 4: Validación de contraseña
 ### Escribe un script que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida (que estará almacenada en una variable de tu script). Si es correcta, muestra un mensaje de éxito, de lo contrario, indica que es incorrecta.
 
+![alt text](image-16.png)
+![alt text](image-15.png)
 
 ## Ejercicio 5: Comprobación de directorio
 ### Crea un script que compruebe si un directorio (que solicitará por teclado al usuario) existe y si tiene permisos de escritura. Si el directorio no existe, crea uno nuevo.
 
+![alt text](image-17.png)
+![alt text](image-18.png)<br>
+![alt text](image-19.png)
 ## Ejercicio 6: Verificar si el usuario es root
 ### Haz un script que verifique si el script está siendo ejecutado por el usuario root, mostrando un mensaje diferente si no lo es.
 
@@ -57,8 +62,14 @@ echo Bienvenido, $usuario
 ## Ejercicio 8: Comprobación del espacio en disco
 ### Crea un script que compruebe el espacio libre en disco. Si el espacio es inferior al 10%, muestra un mensaje de advertencia.
 
+![alt text](image-20.png)
+![alt text](image-21.png)
+
 ## Ejercicio 9: Menú de opciones
 ### Escribe un script que muestre un menú con tres opciones. El usuario debe introducir una opción y el script debe ejecutar una acción diferente dependiendo de la opción seleccionada (es suficiente con que muestre un mensaje diferente según la opción escogida)
+
+![alt text](image-23.png)
+![alt text](image-22.png)
 
 ## Ejercicio 10: Evaluación de edad
 ### Haz un script que solicite al usuario su edad y determine si es menor, adulto o mayor de edad, según un umbral predefinido (por ejemplo, menor de 18, entre 18 y 65, y mayor de 65).
