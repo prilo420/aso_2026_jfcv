@@ -51,7 +51,9 @@ echo Bienvenido, $usuario
 ## Ejercicio 7: Calificación de un examen
 ### Realiza un script que pida una nota numérica y determine si es “Aprobado” (5 o más) o “Suspenso” (menos de 5).
 ![alt text](image-13.png)
-![alt text](image-12.png)
+
+![alt text](image-14.png)
+
 ## Ejercicio 8: Comprobación del espacio en disco
 ### Crea un script que compruebe el espacio libre en disco. Si el espacio es inferior al 10%, muestra un mensaje de advertencia.
 
