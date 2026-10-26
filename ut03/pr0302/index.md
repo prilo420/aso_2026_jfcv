@@ -32,6 +32,9 @@ echo Bienvenido, $usuario
 ```
 <br>
 
+![alt text](image-9.png)
+![alt text](image-10.png)
+
 ## Ejercicio 4: Validación de contraseña
 ### Escribe un script que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida (que estará almacenada en una variable de tu script). Si es correcta, muestra un mensaje de éxito, de lo contrario, indica que es incorrecta.
 
@@ -47,7 +50,8 @@ echo Bienvenido, $usuario
 ![alt text](image-1.png)
 ## Ejercicio 7: Calificación de un examen
 ### Realiza un script que pida una nota numérica y determine si es “Aprobado” (5 o más) o “Suspenso” (menos de 5).
-
+![alt text](image-13.png)
+![alt text](image-12.png)
 ## Ejercicio 8: Comprobación del espacio en disco
 ### Crea un script que compruebe el espacio libre en disco. Si el espacio es inferior al 10%, muestra un mensaje de advertencia.
 
@@ -56,7 +60,7 @@ echo Bienvenido, $usuario
 
 ## Ejercicio 10: Evaluación de edad
 ### Haz un script que solicite al usuario su edad y determine si es menor, adulto o mayor de edad, según un umbral predefinido (por ejemplo, menor de 18, entre 18 y 65, y mayor de 65).
-![alt text](image-2.png)
+![alt text](image-11.png)
 ![alt text](image-3.png)
 ---
 [INDICE](../)
