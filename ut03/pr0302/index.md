@@ -76,4 +76,4 @@ echo Bienvenido, $usuario
 ![alt text](image-11.png)
 ![alt text](image-3.png)
 ---
-[INDICE](../)
+[INDICE](../Indixe.md)
