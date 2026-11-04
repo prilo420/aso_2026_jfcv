@@ -23,7 +23,11 @@
 <br>
 
 ---
+
 # UT04
+
 ## [PR0401: Canalización, objetos y formato en Powershell](./ut04/pr0401/pr0401.md)
 
-## [PR0402](./ut04/pr0402/pr0402.md)
+## [PR0402: Variables, tipos de datos y colecciones en Powershell](./ut04/pr0402/pr0402.md)
+
+## [PR0403: Manipulación de cadenas](./ut04/pr0403/pr0403.md)
