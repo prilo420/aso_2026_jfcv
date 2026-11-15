@@ -80,6 +80,8 @@
 # 8. Censura de datos
 
 # $tarjeta = "1234-5678-9012-3456"
+# Write-Host $tarjeta.Substring(0,15).Insert(15,"XXXX")
+
 # Write-Host $tarjeta.Replace("-3456", "-XXXX" )
 
 
@@ -244,3 +246,24 @@
 
 #------------------------------------------------------------------------------------
 
+# 23.Limpieza de Distinguished Name (AD). Extrae el nombre común (CN).
+
+# $dn = "CN=Beatriz,OU=Ventas,DC=dominio,DC=local"
+# Write-Host $dn.Split(",")[0].Split("=")[1]
+
+
+
+
+#--------------------------------------------------------------------------------
+
+# 24. Generador de iniciales
+$n = "Fernando"
+
+$a = "Alonso"
+
+Write-Host $n[0]"."$a[0]"."
+
+
+
+
+#---------------------------------------------------------------------------------

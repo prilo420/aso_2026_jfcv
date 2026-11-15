@@ -1,0 +1,4 @@
+﻿"TimeStamp","Severity","User","EventID","Action"
+"01/11/2023 10:05:48","ERROR","guest_user","9921","Auth_Fail (Pass)"
+"01/11/2023 10:15:48","WARN","dev_team","8843","Upload_Limit_Exceeded"
+"01/11/2023 10:20:48","CRITICAL","administrator","1001","Service_Stop"
