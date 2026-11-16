@@ -31,3 +31,7 @@
 ## [PR0402: Variables, tipos de datos y colecciones en Powershell](./ut04/pr0402/pr0402.md)
 
 ## [PR0403: Manipulación de cadenas](./ut04/pr0403/pr0403.md)
+
+## [PR0404: Manipulación de colecciones](./ut04/pr0404/pr0404.md)
+
+## [PR0405: Limpieza de logs](./ut04/pr0405/pr0405.md)
